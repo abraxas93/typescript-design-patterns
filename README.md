@@ -1,0 +1,1 @@
+#TypeScript Software Design Patterns
