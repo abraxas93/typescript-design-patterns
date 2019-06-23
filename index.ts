@@ -1,4 +1,4 @@
-import index from './patterns/AbstractFactory/index';
+import index from './patterns/Builder/index';
 
 const message: string = 'Hello world';
 console.log(message);
