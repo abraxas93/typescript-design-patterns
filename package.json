@@ -1,0 +1,28 @@
+{
+  "name": "typescript-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js start-server",
+    "dev": "ts-node-dev --respawn --transpileOnly ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraxas93/typescript-design-patterns.git"
+  },
+  "author": "vertix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abraxas93/typescript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/abraxas93/typescript-design-patterns#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.40",
+    "tslint": "^5.18.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "typescript": "^3.5.2"
+  }
+}
