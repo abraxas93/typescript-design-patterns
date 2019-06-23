@@ -1,3 +1,4 @@
+// MacBookFactory
 import Factory from './Factory';
 import { ILightNoteBook, IMediumNoteBook } from './interfaces';
 

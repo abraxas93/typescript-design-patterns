@@ -1,3 +1,4 @@
+// interfaces
 interface INoteBook {
   getInfo(): string;
 }

@@ -1,3 +1,4 @@
+// Abstract Factory Class
 import { ILightNoteBook, IMediumNoteBook } from './interfaces';
 
 export default abstract class Factory {

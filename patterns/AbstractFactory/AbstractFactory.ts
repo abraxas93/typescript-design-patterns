@@ -1,4 +1,5 @@
 // Theory
+// sample
 abstract class AbstractProductA {}
 abstract class AbstractProductB {}
 class ProductA1 extends AbstractProductA {}

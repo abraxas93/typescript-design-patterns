@@ -1,4 +1,4 @@
-
+// sample
 import { ILightNoteBook, IMediumNoteBook } from './interfaces';
 import MacBookFactory from './MacBookFactory';
 import Factory from './Factory';
