@@ -1,4 +1,4 @@
-import index from './patterns/Prototype/index';
+import index from './patterns/Creational/Prototype/index';
 
 const message: string = 'Hello world';
 console.log(message);
